@@ -1,4 +1,4 @@
-"""CP1404/CP5632 Practical - Demonstrate filtering dynamic programming languages."""
+"""CP1404 Practical """
 
 from prac_06.programming_language import ProgrammingLanguage
 
