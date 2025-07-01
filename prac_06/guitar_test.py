@@ -14,3 +14,5 @@ def run_tests():
 
     # Testing is_vintage
     print(f"{test_guitar_1.name} is_vintage() - Ex_
+# Minor update to trigger PR diff
+# No functional change — added to trigger GitHub diff

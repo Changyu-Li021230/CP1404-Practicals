@@ -29,3 +29,5 @@ class Guitar:
         return self.get_age() >= VINTAGE_AGE
 
 
+# Minor update to trigger PR diff
+# No functional change — added to trigger GitHub diff

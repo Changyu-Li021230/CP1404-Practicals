@@ -25,3 +25,5 @@ I need to stop using code or functions that haven’t been taught in the subject
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 I suggest offering more opportunities for students to get involved in research or learn about cutting-edge technologies. It would be helpful to have more chances to explore areas like AI, cloud computing, or cybersecurity beyond the standard curriculum, even in simple ways.
 
+# Minor update to trigger PR diff
+# No functional change — added to trigger GitHub diff
