@@ -30,3 +30,4 @@ class Guitar:
 
 
 # Minor update to trigger PR diff
+# No functional change — added to trigger GitHub diff

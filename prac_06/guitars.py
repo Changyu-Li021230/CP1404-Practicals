@@ -38,3 +38,4 @@ def main():
 if __name__ == "__main__":
     main()
 # Minor update to trigger PR diff
+# No functional change — added to trigger GitHub diff
