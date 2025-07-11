@@ -55,4 +55,3 @@ def display_filtered(languages, condition):
 
 if __name__ == "__main__":
     main()
-# Code review request: please check logic and structure

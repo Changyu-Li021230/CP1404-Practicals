@@ -1,6 +1,6 @@
 """
 CP1404 Practical – Project Management Program
-
+Estimated time: 3 hrs
 """
 
 import csv
@@ -174,4 +174,3 @@ def _safe_int(text: str, current: int) -> int:
 
 if __name__ == "__main__":
     main()
-# Code review request: please check logic and structure

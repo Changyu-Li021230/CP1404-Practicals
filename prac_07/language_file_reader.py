@@ -69,4 +69,3 @@ def using_csv_namedtuple():
 
 if __name__ == "__main__":
     main()
-# Code review request: please check logic and structure

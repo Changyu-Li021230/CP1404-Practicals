@@ -92,4 +92,3 @@ def display_guitars(guitars: list[Guitar]):
 
 if __name__ == "__main__":
     main()
-# Code review request: please check logic and structure
