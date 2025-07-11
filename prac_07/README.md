@@ -7,8 +7,7 @@
 | Description | URL |
 |-------------|-----|
 | PR I created (mentions another student) | HayashiDavid|
-| PR I reviewed last prac | 
-NangLaungPhoung02 |
+| PR I reviewed last prac | NangLaungPhoung02 |
 
 ## How to Run
 ```bash
