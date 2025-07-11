@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89fac262-02ec-4b08-9b34-1702a037bdc2" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/prac_07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/prac_07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_07/myguitars.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_07/myguitars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_07/programming_language.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_07/programming_language.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_07/project_management.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_07/project_management.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/CP1404-Practicals" value="prac_05_feedback" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/menus.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2xWvetLipuYqYNbgk0oH2EB4iDc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.quick_picks.executor": "Run",
+    "Python.temperatures.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.total_income.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "prac__07__feedback",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="89fac262-02ec-4b08-9b34-1702a037bdc2" name="更改" comment="" />
+      <created>1748066742807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748066742807</updated>
+      <workItem from="1748066748861" duration="3705000" />
+      <workItem from="1748434244566" duration="188000" />
+      <workItem from="1748434435727" duration="8697000" />
+      <workItem from="1748957083602" duration="6176000" />
+      <workItem from="1749562103873" duration="178000" />
+      <workItem from="1749562290740" duration="10747000" />
+      <workItem from="1750053273432" duration="4309000" />
+      <workItem from="1750135927938" duration="1398000" />
+      <workItem from="1750256522286" duration="11897000" />
+      <workItem from="1750426905552" duration="677000" />
+      <workItem from="1750427586498" duration="47000" />
+      <workItem from="1750427635726" duration="372000" />
+      <workItem from="1750428011027" duration="197000" />
+      <workItem from="1750428209994" duration="1488000" />
+      <workItem from="1750429703654" duration="327000" />
+      <workItem from="1750430033300" duration="771000" />
+      <workItem from="1750430833710" duration="413000" />
+      <workItem from="1750431249751" duration="483000" />
+      <workItem from="1750431735875" duration="440000" />
+      <workItem from="1750432220810" duration="171000" />
+      <workItem from="1750844367161" duration="596000" />
+      <workItem from="1750844970750" duration="1000" />
+      <workItem from="1751359489759" duration="9064000" />
+      <workItem from="1751382460850" duration="7376000" />
+      <workItem from="1752211022912" duration="3480000" />
+      <workItem from="1752214570577" duration="2783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cp1404_hw$total_income.coverage" NAME="total_income 覆盖结果" MODIFIED="1749625311453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CP1404-Practicals/prac_04" />
+    <SUITE FILE_PATH="coverage/cp1404_hw$test.coverage" NAME="test 覆盖结果" MODIFIED="1750209485642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CP1404-Practicals/prac_05" />
+    <SUITE FILE_PATH="coverage/cp1404_hw$temperatures.coverage" NAME="temperatures 覆盖结果" MODIFIED="1748094809087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_hw$quick_picks.coverage" NAME="quick_picks 覆盖结果" MODIFIED="1749724878149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CP1404-Practicals/prac_04" />
+  </component>
+</project>
