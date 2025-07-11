@@ -2,15 +2,20 @@
 CP1404/CP5632 Practical - Programming Language class with pointer arithmetic support.
 """
 
-DYNAMIC_TYPING = "Dynamic"  # constant for comparison
+DYNAMIC_TYPING = "Dynamic"  # Constant for dynamic typing check
+
 
 class ProgrammingLanguage:
-    """Represent information about a programming language."""
+    """Represent a programming language with core features."""
 
     def __init__(self, name, typing, reflection, year, pointer_arithmetic):
         """
-        Initialize a programming language with name, typing, reflection support,
-        year introduced, and pointer arithmetic support.
+        Initialize a programming language.
+        :param name: Name of the language
+        :param typing: Typing style ("Dynamic"/"Static")
+        :param reflection: Boolean indicating reflection support
+        :param year: Year introduced
+        :param pointer_arithmetic: Boolean indicating pointer arithmetic support
         """
         self.name = name
         self.typing = typing
@@ -27,13 +32,13 @@ class ProgrammingLanguage:
 
 
 def main():
-    """Demonstrate the use of the ProgrammingLanguage class."""
+    """Run the demonstration of ProgrammingLanguage features."""
     languages = [
         ProgrammingLanguage("Ruby", DYNAMIC_TYPING, True, 1995, False),
         ProgrammingLanguage("Python", DYNAMIC_TYPING, True, 1991, False),
         ProgrammingLanguage("Visual Basic", "Static", False, 1991, False),
         ProgrammingLanguage("C++", "Static", False, 1983, True),
-        ProgrammingLanguage("C#", "Static", True, 2000, True),
+        ProgrammingLanguage("C#", "Static", True, 2000, True)
     ]
 
     print("All Languages:")
@@ -46,15 +51,15 @@ def main():
     display_filtered_languages(languages, lambda lang: lang.pointer_arithmetic)
 
 
-def display_languages(language_list):
-    """Print details of all languages."""
-    for language in language_list:
+def display_languages(languages):
+    """Display all language details."""
+    for language in languages:
         print(language)
 
 
-def display_filtered_languages(language_list, condition):
-    """Print language names that match a given condition."""
-    for language in language_list:
+def display_filtered_languages(languages, condition):
+    """Display languages matching a specific condition."""
+    for language in languages:
         if condition(language):
             print(language.name)
 
