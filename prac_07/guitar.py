@@ -40,3 +40,4 @@ class Guitar:
     def __lt__(self, other):
         """Compare guitars by year (older = less)."""
         return self.year < other.year
+# Code review request: please check logic and structure

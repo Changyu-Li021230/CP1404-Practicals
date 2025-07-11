@@ -4,3 +4,4 @@ C++,Static,No,1983,Yes
 Python,Dynamic,Yes,1991,No
 Visual Basic,Static,No,1991,No
 Ruby,Dynamic,Yes,1995,No
+# Code review request: please check logic and structure
