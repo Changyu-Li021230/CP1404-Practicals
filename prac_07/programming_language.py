@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical - Programming Language class with pointer arithmetic support.
+CP1404 Practical - Programming Language class with pointer arithmetic support.
 """
 
 DYNAMIC_TYPING = "Dynamic"  # Constant for dynamic typing check
