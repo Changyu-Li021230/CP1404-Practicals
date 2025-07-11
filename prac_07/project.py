@@ -47,3 +47,5 @@ class Project:
         """Return tab-separated string format for saving to file."""
         return (f"{self.name}\t{self.start_date.strftime(DATE_FORMAT)}\t"
                 f"{self.priority}\t{self.cost_estimate:.2f}\t{self.percent_complete}")
+
+# Dummy line for code review trigger
