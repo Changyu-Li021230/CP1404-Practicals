@@ -1,0 +1,28 @@
+SquaringWidget:
+    orientation: 'vertical'
+    padding: 10
+    spacing: 10
+
+    BoxLayout:
+        orientation: 'horizontal'
+        spacing: 10
+
+        TextInput:
+            id: input_number
+            hint_text: "Enter a number"
+            multiline: False
+            input_filter: 'int'  # Optional: restricts to digits
+
+        Button:
+            text: "Square"
+            on_press: app.handle_calculate(input_number.text)
+
+        Label:
+            id: result_label
+            text: "Result:"
+            color: (1, 0.5, 0.5, 1)  # Pink
+
+    Label:
+        text: 'Enter a number and press "Square"'
+        size_hint_y: None
+        height: self.texture_size[1] + 10
