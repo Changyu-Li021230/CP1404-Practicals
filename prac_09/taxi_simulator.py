@@ -1,6 +1,6 @@
 """
-CP1404/CP5632 Practical
-Taxi Simulator – full-marks solution
+CP1404
+Taxi Simulator
 
 Provides an interactive simulator that lets the user choose between
 regular and silver-service taxis, drive them, and track total cost.
