@@ -4,7 +4,7 @@ Test functions and the Car class using assert and doctest.
 """
 
 import doctest
-from prac_06.car import Car
+from prac_06.car import Carzzzzzzzzzzz
 
 
 # Constants for testing

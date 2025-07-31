@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Wikipedia Search</title>
+</head>
+<body>
+  <h1>Wikipedia Search</h1>
+  <form action="{{ url_for('search') }}" method="post">
+    <label for="title">Enter Page Title:</label>
+    <input type="text" name="title" id="title" required>
+    <button type="submit">Search</button>
+  </form>
+</body>
+</html>
