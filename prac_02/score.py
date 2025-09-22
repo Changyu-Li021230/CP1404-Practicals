@@ -1,23 +1,3 @@
-"""
-(Pseudocode:)
-
-function get_score_result(score)
-    if score < 0 or score > 100
-        return "Invalid score"
-    else if score >= 90
-        return "Excellent"
-    else if score >= 50
-        return "Passable"
-    else
-        return "Bad"
-
-function main()
-    get score as float
-    print get_score_result(score)
-
-    random_score = random integer between 0 and 100
-    print "Random score:", random_score, "->", get_score_result(random_score)
-"""
 """Program to classify score into categories and display random score result."""
 
 import random
