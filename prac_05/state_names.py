@@ -1,5 +1,5 @@
 """
-File has been reformatted, uses EAFP, and prints all states.
+File has been reformatted, uses EAFP,and prints all states.
 """
 
 INPUT_PROMPT = "Enter short state: "

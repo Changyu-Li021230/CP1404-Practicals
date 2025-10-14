@@ -1,4 +1,4 @@
-"""Hexadecimal Colour Lookup
+"""Hexadecimal Colour Lookup：
 Estimate: 10 minutes
 Actual: 9 minutes
 This program allows users to input colour names (case-insensitive)
