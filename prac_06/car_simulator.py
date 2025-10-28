@@ -1,4 +1,4 @@
-"""CP1404/CP5632 Practical - Car Driving Simulator"""
+"""CP1404Practical - Car Driving Simulator"""
 
 from prac_06.car import Car
 

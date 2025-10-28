@@ -1,4 +1,4 @@
-"""CP1404Practical """
+"""CP1404-Practical """
 
 # Constants
 TYPING_DYNAMIC = "Dynamic"

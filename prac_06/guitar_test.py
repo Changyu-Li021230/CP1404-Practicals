@@ -1,4 +1,4 @@
-"""CP1404 Practical - Manual tests for Guitar class methods."""
+"""CP1404-Practical  Manual tests for Guitar class methods."""
 
 from prac_06.guitar import Guitar
 
