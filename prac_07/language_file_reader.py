@@ -1,6 +1,4 @@
-"""
-CP1404 Practical
-Read programming language data from CSV, convert to objects, and display them.
+"""CP1404 Practical-Read programming language data from CSV, convert to objects, and display them.
 """
 
 import csv

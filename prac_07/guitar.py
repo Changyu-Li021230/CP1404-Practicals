@@ -1,4 +1,4 @@
-"""CP1404 Practical – Guitar class for storing guitar details."""
+"""CP1404 Practical – Guitar class for storing guitar details"""
 
 from datetime import date
 
@@ -34,9 +34,9 @@ class Guitar:
         """Return True if guitar is at least VINTAGE_AGE years old."""
         return self.get_age() >= VINTAGE_AGE
 
-    # --------------------------------------------------------------------- #
+    # -------------------------------------------------------------------- #
     # Sorting support
-    # --------------------------------------------------------------------- #
+    # -------------------------------------------------------------------- #
     def __lt__(self, other):
         """Compare guitars by year (older = less)."""
         return self.year < other.year

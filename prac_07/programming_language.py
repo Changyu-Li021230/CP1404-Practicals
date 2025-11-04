@@ -1,6 +1,5 @@
 """
-CP1404 Practical
-ProgrammingLanguage class with pointer arithmetic support and demo.
+CP1404 Practical-ProgrammingLanguage class with pointer arithmetic support and demo.
 """
 
 # === Constants ===
