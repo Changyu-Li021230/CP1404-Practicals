@@ -1,7 +1,7 @@
 # CP1404 Practical 07 
 
 > **Author:** Changyu Li  
-> **Time spent:** ~4hours
+> **Time spent:** ~3hours
 
 ## Peer-review Links
 | Description | URL |

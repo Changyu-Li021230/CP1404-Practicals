@@ -1,5 +1,5 @@
 """
-CP1404 Practical – More Guitars
+CP1404 Practical  More Guitars
 Load existing guitars, display them, let user add more, then save back to CSV.
 """
 

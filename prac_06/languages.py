@@ -1,4 +1,4 @@
-"""CP1404 Practical """
+"""CP1404-Practical """
 
 from prac_06.programming_language import ProgrammingLanguage
 

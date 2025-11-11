@@ -1,6 +1,5 @@
 """
 CP1404 Practical – Project Management Program
-Estimated time: 3 hrs
 """
 
 import csv

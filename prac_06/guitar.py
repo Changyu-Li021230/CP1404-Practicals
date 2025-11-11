@@ -1,4 +1,4 @@
-"""CP1404Practical - Guitar class for storing guitar details."""
+"""CP1404-Practical - Guitar class for storing guitar details."""
 
 from datetime import date
 

@@ -54,13 +54,15 @@ function is_valid_password(password)
     return true
 
 """
+"""Password checker: validate length and required character classes."""
 
 MIN_LENGTH = 2
 MAX_LENGTH = 6
 IS_SPECIAL_CHARACTER_REQUIRED = False
 SPECIAL_CHARACTERS = "!@#$%^&*()_-=+`~,./'[]<>?{}|\\"
 
-def main():
+def main() -> None:
+    """Run the interactive password checker."""
     print("Please enter a valid password")
     print(f"Your password must be between {MIN_LENGTH} and {MAX_LENGTH} characters, and contain:")
     print("\t1 or more uppercase characters")
@@ -69,13 +71,15 @@ def main():
     if IS_SPECIAL_CHARACTER_REQUIRED:
         print(f"\tand 1 or more special characters: {SPECIAL_CHARACTERS}")
 
-    password = input("> ")
+    password = input("> ").strip()
     while not is_valid_password(password):
         print("Invalid password!")
-        password = input("> ")
+        password = input("> ").strip()
+
     print(f"Your {len(password)} character password is valid: {password}")
 
-def is_valid_password(password):
+def is_valid_password(password: str) -> bool:
+    """Return True if password meets length and character-class requirements."""
     if len(password) < MIN_LENGTH or len(password) > MAX_LENGTH:
         return False
 
@@ -96,10 +100,9 @@ def is_valid_password(password):
 
     if number_of_lower == 0 or number_of_upper == 0 or number_of_digit == 0:
         return False
-
     if IS_SPECIAL_CHARACTER_REQUIRED and number_of_special == 0:
         return False
-
     return True
 
-main()
+if __name__ == "__main__":
+    main()

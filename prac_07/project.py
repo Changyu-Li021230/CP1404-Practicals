@@ -1,6 +1,6 @@
 """
 CP1404 Practical 07 - Project class module
-Estimated time: 1.5 hours
+
 """
 
 from datetime import datetime

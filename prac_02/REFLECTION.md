@@ -27,3 +27,4 @@ Sometimes I find it hard to stay focused during practical sessions and get distr
 ## What are you doing really well for practicals in this subject?
 I’ve connected with Professor Shengfeng He from SMU and started doing remote research work in the field of computer vision, focusing on lightweight models such as Tiny Mamba.
 
+- sync test: Mon Sep 22 23:53:59 +08 2025

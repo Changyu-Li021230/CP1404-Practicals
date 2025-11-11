@@ -1,4 +1,4 @@
-"""CP1404/CP5632 Practical - Car class"""
+"""CP1404 Practical - Car class"""
 
 # Constant to define what qualifies as a vintage car (used elsewhere in prac)
 VINTAGE_AGE = 50

@@ -1,4 +1,4 @@
-"""CP1404 Practical - Program to record and display guitars."""
+"""CP1404-Practical - Program to record and display guitars."""
 
 from prac_06.guitar import Guitar
 

@@ -37,12 +37,15 @@ set sum_of_first_two = numbers[0] + numbers[1]
 
 print sum_of_first_two
 """
-with open('numbers.txt', 'r') as file:
+"""Read the first two numbers from numbers.txt and print their sum."""
+
+with open("numbers.txt", "r") as file:
     numbers = file.readlines()
     first_number = int(numbers[0].strip())
     second_number = int(numbers[1].strip())
     sum_of_first_two = first_number + second_number
     print(sum_of_first_two)
+
 
 # Question 4: Print the total sum of all the numbers in "numbers.txt"
 """
