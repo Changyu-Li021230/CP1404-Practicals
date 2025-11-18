@@ -1,8 +1,5 @@
 """
 Wimbledon Champions Summary
-Estimate: 25 minutes
-Actual:   22 minutes
-
 Reads Wimbledon men's singles champions data from CSV,
 counts how many times each player has won,
 and displays a summary of winners and countries.

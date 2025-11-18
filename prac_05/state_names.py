@@ -1,7 +1,5 @@
 """
-CP1404/CP5632 Practical - Final Solution
-State names in a dictionary.
-File has been reformatted, uses EAFP, and prints all states.
+File has been reformatted, uses EAFP,and prints all states.
 """
 
 INPUT_PROMPT = "Enter short state: "

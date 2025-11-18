@@ -1,8 +1,5 @@
 """
-Emails
-Estimate: 20 minutes
-Actual:   17 minutes
-
+Emails：
 This program prompts users to enter emails,
 guesses names from the addresses, allows confirmation or correction,
 stores the results in a dictionary, and displays them formatted.
